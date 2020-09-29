@@ -1,6 +1,5 @@
-
-
 # Neural Plot
+
 [![PyPI version](https://img.shields.io/badge/pypi-v%200.0.7-green.svg)](https://pypi.org/project/neuralplot/)
 [![Python version](https://img.shields.io/badge/python-v3.6%20v3.7%20v3.8-red.svg)](https://pypi.org/project/neuralplot/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
@@ -17,8 +16,8 @@ Run the following to install:
 $ pip install neuralplot
 ```
 
-## Example
 
+## Example
 
 ```python
 # Importing Libraries
@@ -52,13 +51,13 @@ model = tf.keras.models.Model(inputs=X_input, outputs=X)
 modelplot = ModelPlot(model=model, grid=True, connection=True, linewidth=0.1)
 modelplot.show()
 ```
-[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/Neural-Plot/master/Screenshot/Image-011.png)]()
+[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/neuralplot/master/images/Image-01.png)]()
 
 ```python
 modelplot = ModelPlot(model=model, grid=False, connection=True, linewidth=0.1)
 modelplot.show()
 ```
-[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/Neural-Plot/master/Screenshot/Image-010.png)]()
+[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/neuralplot/master/images/Image-01.png)]()
 
 
 License
