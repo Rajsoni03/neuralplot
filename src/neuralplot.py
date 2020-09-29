@@ -48,7 +48,7 @@ class ModelPlot(object):
 				lay_marker = '.'
 			else:
 				lay_color  = 'g'
-				lay_marker = 'o'
+				lay_marker = '.'
 
 		return {'shape': lay_shape, 'name': lay_name, 'color': lay_color, 'marker': lay_marker}
 

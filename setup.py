@@ -7,7 +7,7 @@ setuptools.setup(
 
     name="neuralplot",
 
-    version="0.0.7",
+    version="0.0.8",
  
     author="Rajkumar Soni",
  
@@ -19,7 +19,7 @@ setuptools.setup(
  
     long_description_content_type="text/markdown",
 
-    url="https://github.com/Rajsoni03/Neural-Plot",
+    url="https://github.com/Rajsoni03/neuralplot",
 
     py_modules=["neuralplot"],
 

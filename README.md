@@ -1,6 +1,6 @@
 # Neural Plot
 
-[![PyPI version](https://img.shields.io/badge/pypi-v%200.0.7-green.svg)](https://pypi.org/project/neuralplot/)
+[![PyPI version](https://img.shields.io/badge/pypi-v%200.0.8-green.svg)](https://pypi.org/project/neuralplot/)
 [![Python version](https://img.shields.io/badge/python-v3.6%20v3.7%20v3.8-red.svg)](https://pypi.org/project/neuralplot/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rajsoni03/neuralplot/blob/master/others/Example%20Notebook.ipynb) 
