@@ -51,13 +51,13 @@ model = tf.keras.models.Model(inputs=X_input, outputs=X)
 modelplot = ModelPlot(model=model, grid=True, connection=True, linewidth=0.1)
 modelplot.show()
 ```
-[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/neuralplot/master/images/Image-01.png)]()
+[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/neuralplot/master/others/images/Image-01.png)]()
 
 ```python
 modelplot = ModelPlot(model=model, grid=False, connection=True, linewidth=0.1)
 modelplot.show()
 ```
-[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/neuralplot/master/images/Image-01.png)]()
+[![modelplot with grid](https://raw.githubusercontent.com/Rajsoni03/neuralplot/master/others/images/Image-02.png)]()
 
 
 License
