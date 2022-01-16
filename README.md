@@ -8,6 +8,9 @@
 Neural Plot is a python library for visualizing Neural Networks.
 It helps to plot Keras/Tensorflow model with matplotlib backend.
 
+[![NeuralPlot](https://i.ytimg.com/an_webp/CsWnmWdk5-g/mqdefault_6s.webp?du=3000&sqp=CKjGj48G&rs=AOn4CLDi530RQLCprZL1_Gec3eflE-Gf8Q)](https://youtu.be/CsWnmWdk5-g "NeuralPlot")
+<br>https://youtu.be/CsWnmWdk5-g
+
 
 ## Installation
 
